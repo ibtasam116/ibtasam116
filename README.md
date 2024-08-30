@@ -27,24 +27,29 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="48" height="48" />
+      <a href="#macropower-tech"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="48" height="48" />
+      <a href="#macropower-tech"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"  width="48" height="48"  />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"  width="48" height="48"  />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap"  width="48" height="48"  />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48"  />
       </a>
       <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  width="48" height="48"  />
+      </a>
+      <br>MaterialUI
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="48" height="48"  />
@@ -71,11 +76,11 @@
       </a>
       <br>NextJS
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
       </a>
       <br>Firebase
-    </td>
+    </td> -->
   </tr>
   <tr>
    <td align="center" width="96">
