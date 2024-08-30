@@ -76,16 +76,6 @@
       </a>
       <br>Firebase
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
-      </a>
-      <br>Netlify
-    </td> -->
   </tr>
   <tr>
    <td align="center" width="96">
@@ -138,7 +128,34 @@
       </a>
       <br>Slack
     </td>
-    <!-- <td align="center" width="96">
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+      </a>
+      <br>VSCode
+    </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="MS VB" width="48" height="48" />
+      </a>
+      <br>MS VB
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
+      </a>
+      <br>Trello
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+      </a>
+      <br>Netlify
+    </td> 
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
       <br>Canva
@@ -147,23 +164,6 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
       </a>
       <br>Postman
-    </td> -->
-  </tr>
-  <tr>
-   <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="CLanguage" width="48" height="48" />
-      </a>
-      <br>C Language
     </td>
   </tr>
 </table>
