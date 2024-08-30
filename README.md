@@ -141,28 +141,6 @@
       </a>
       <br>VSCode
     </td>
-   <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="MS VB" width="48" height="48" />
-      </a>
-      <br>MS VB
-    </td>
-      <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
-    </td>
-      <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="Reddit" width="48" height="48" />
-      </a>
-      <br>Reddit
-    </td> 
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
-      </a>
-      <br>Canva
-    </td>
-    -->
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="48" height="48" />
       </a>
@@ -203,11 +181,6 @@
       </a>
       <br>Sublime
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="Reducer" width="48" height="48" />
-      </a>
-      <br>Reducer
-    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -228,6 +201,37 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
       </a>
       <br>Slack
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=ps" alt="PS" width="48" height="48" />
+      </a>
+      <br>PS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=xd" alt="xd" width="48" height="48" />
+      </a>
+      <br>xd
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="MS VB" width="48" height="48" />
+      </a>
+      <br>MS VB
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
+      </a>
+      <br>Trello
+    </td>
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="Reddit" width="48" height="48" />
+      </a>
+      <br>Reddit
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
+      </a>
+      <br>Canva
     </td>
   </tr>
 </table>
