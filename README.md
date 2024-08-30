@@ -79,54 +79,55 @@
   </tr>
   <tr>
    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="NodeJS" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" width="48" height="48" />
       </a>
       <br>ExpressJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
       </a>
       <br>GitHub
     </td>
      <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="48" height="48" />
       </a>
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="C Language" width="48" height="48" />
       </a>
-      <br>Surge
+      <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=cpp" alt="C Plus Plus" width="48" height="48" />
+      </a>
+      <br>C ++
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
       </a>
       <br>Discord
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
-      </a>
-      <br>Slack
     </td>
   </tr>
   <tr>
@@ -199,16 +200,6 @@
       <br>ReadMe
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="C Language" width="48" height="48" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=cpp" alt="C Plus Plus" width="48" height="48" />
-      </a>
-      <br>C ++
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="48" height="48" />
       </a>
       <br>NPM
@@ -218,7 +209,15 @@
       </a>
       <br>Sublime
     </td>
-  
+  <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
+      </a>
+      <br>Surge
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
+      </a>
+      <br>Slack
+    </td>
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
