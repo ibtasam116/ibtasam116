@@ -108,10 +108,15 @@
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
       </a>
-      <br>VS Code
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      </a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
@@ -133,11 +138,6 @@
       </a>
       <br>Slack
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
-      </a>
-      <br>Trello
-    </td>
     <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
@@ -150,6 +150,16 @@
     </td> -->
   </tr>
   <tr>
+   <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+      </a>
+      <br>VS Code
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="48" height="48" />
+      </a>
+      <br>Trello
+    </td>
    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="CLanguage" width="48" height="48" />
       </a>
