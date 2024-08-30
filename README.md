@@ -64,7 +64,7 @@
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  alt="React"  width="48" height="48" />
       </a>
-      <br>Next JS
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
@@ -74,7 +74,7 @@
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="NodeJS" width="48" height="48" />
       </a>
-      <br>Express JS
+      <br>ExpressJS
     </td>
     <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
