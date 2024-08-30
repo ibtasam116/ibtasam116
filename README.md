@@ -199,9 +199,24 @@
       <br>ReadMe
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="Postman" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="C Language" width="48" height="48" />
       </a>
       <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=cpp" alt="C Plus Plus" width="48" height="48" />
+      </a>
+      <br>C ++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="48" height="48" />
+      </a>
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="48" height="48" />
+      </a>
+      <br>Sublime
     </td>
   
   </tr>
