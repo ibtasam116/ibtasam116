@@ -27,17 +27,17 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />
+      <a href="#macropower-tech"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="48" height="48" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
+      <a href="#macropower-tech"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap"  width="48" height="48"  />
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap"  width="48" height="48"  />
       </a>
       <br>Bootstrap
     </td>
@@ -45,6 +45,11 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap"  width="48" height="48"  />
       </a>
       <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="48" height="48"  />
+      </a>
+      <br>SASS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
@@ -67,6 +72,23 @@
       <br>NextJS
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+      </a>
+      <br>Firebase
+    </td>
+    <!-- <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+      </a>
+      <br>Netlify
+    </td> -->
+  </tr>
+  <tr>
+   <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
       </a>
       <br>NodeJS
@@ -76,23 +98,6 @@
       </a>
       <br>ExpressJS
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
-      </a>
-      <br>Netlify
-    </td> -->
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
@@ -133,7 +138,7 @@
       </a>
       <br>Trello
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
       <br>Canva
@@ -142,7 +147,7 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
       </a>
       <br>Postman
-    </td>
+    </td> -->
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
