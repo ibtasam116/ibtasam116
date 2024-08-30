@@ -172,10 +172,38 @@
       <br>Postman
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="48" height="48" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="Reducer" width="48" height="48" />
+      </a>
+      <br>Reducer
+    </td>
+  </tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/gemini/gemini-icon.svg" alt="Gemini" width="48" height="48" />
+      </a>
+      <br>Gemini
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg" alt="ReadMe" width="48" height="48" />
+      </a>
+      <br>ReadMe
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="Postman" width="48" height="48" />
       </a>
-      <br>Postman
+      <br>C
     </td>
+  <tr>
+  
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
