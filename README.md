@@ -182,6 +182,7 @@
       <br>Reducer
     </td>
   </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
       </a>
@@ -202,7 +203,6 @@
       </a>
       <br>C
     </td>
-  <tr>
   
   </tr>
 </table>
