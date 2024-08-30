@@ -99,6 +99,11 @@
       <br>ExpressJS
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="NodeJS" width="48" height="48" />
+      </a>
+      <br>C Language
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
       <br>Git
