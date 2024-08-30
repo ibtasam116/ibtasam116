@@ -172,7 +172,7 @@
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" alt="Postman" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=c" alt="Postman" width="48" height="48" />
       </a>
       <br>Postman
     </td>
