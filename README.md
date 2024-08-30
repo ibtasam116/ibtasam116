@@ -47,9 +47,9 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python"  width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="Python"  width="48" height="48" />
       </a>
-      <br>Python
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
