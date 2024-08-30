@@ -188,27 +188,10 @@
       </a>
       <br>Discord
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="Reducer" width="48" height="48" />
-      </a>
-      <br>Reducer
-    </td> -->
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="48" height="48" />
       </a>
       <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/gemini/gemini-icon.svg" alt="Gemini" width="48" height="48" />
-      </a>
-      <br>Gemini
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg" alt="ReadMe" width="48" height="48" />
-      </a>
-      <br>ReadMe
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" width="48" height="48" />
@@ -219,6 +202,23 @@
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=sublime" alt="Sublime" width="48" height="48" />
       </a>
       <br>Sublime
+    </td>
+    <!-- <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="Reducer" width="48" height="48" />
+      </a>
+      <br>Reducer
+    </td> -->
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/gemini/gemini-icon.svg" alt="Gemini" width="48" height="48" />
+      </a>
+      <br>Gemini
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/readmeio/readmeio-icon.svg" alt="ReadMe" width="48" height="48" />
+      </a>
+      <br>ReadMe
     </td>
   <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/surgesh/surgesh-icon.svg" alt="Surge" width="48" height="48" />
