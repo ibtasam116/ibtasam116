@@ -62,6 +62,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=react"  alt="ReactJS"  width="48" height="48" />
       </a>
       <br>ReactJS
@@ -71,13 +76,13 @@
       </a>
       <br>NextJS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
       </a>
       <br>Firebase
     </td>
-  </tr>
-  <tr>
    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48" />
       </a>
@@ -124,24 +129,19 @@
       <br>C ++
     </td>
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
-      </a>
-      <br>Discord
-    </td>
   </tr>
   <tr>
   <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
     </td>
    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
       </a>
       <br>VSCode
     </td>
-   <td align="center" width="96">
+   <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="MS VB" width="48" height="48" />
       </a>
       <br>MS VB
@@ -156,32 +156,43 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="Reddit" width="48" height="48" />
       </a>
       <br>Reddit
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
-      </a>
-      <br>Netlify
     </td> 
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
       <br>Canva
     </td>
+    -->
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="48" height="48" />
+      </a>
+      <br>Netlify
+    </td> 
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       </a>
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux" width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" width="48" height="48" />
+      </a>
+      <br>PostGres
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="48" height="48" />
       </a>
       <br>Redux
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48" height="48" />
+      </a>
+      <br>Discord
+    </td>
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reducer/reducer-icon.svg" alt="Reducer" width="48" height="48" />
       </a>
       <br>Reducer
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
