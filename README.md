@@ -150,6 +150,12 @@
       </a>
       <br>Trello
     </td>
+    </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" alt="Reddit" width="48" height="48" />
+      </a>
+      <br>Reddit
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
       </a>
