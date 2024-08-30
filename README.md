@@ -52,35 +52,30 @@
       <br>MaterialUI
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  width="48" height="48"  />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=sass"  alt="SASS"  width="48" height="48"  />
       </a>
       <br>SASS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=js"  alt="JavaScript"  width="48" height="48" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="Python"  width="48" height="48" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=react"  alt="ReactJS"  width="48" height="48" />
       </a>
       <br>ReactJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  alt="React"  width="48" height="48" />
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS"  width="48" height="48" />
       </a>
       <br>NextJS
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
       </a>
       <br>Firebase
-    </td> -->
+    </td>
   </tr>
   <tr>
    <td align="center" width="96">
