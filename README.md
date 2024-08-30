@@ -46,11 +46,11 @@
       </a>
       <br>Tailwind
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
       </a>
       <br>JavaScript
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="Python"  width="48" height="48" />
       </a>
@@ -59,7 +59,12 @@
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
       </a>
-      <br>React
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  alt="React"  width="48" height="48" />
+      </a>
+      <br>Next JS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
@@ -67,6 +72,11 @@
       <br>NodeJS
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="NodeJS" width="48" height="48" />
+      </a>
+      <br>Express JS
+    </td>
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
@@ -80,7 +90,7 @@
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
       </a>
       <br>Netlify
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
