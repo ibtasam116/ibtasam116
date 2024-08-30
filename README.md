@@ -99,11 +99,6 @@
       <br>ExpressJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="CLanguage" width="48" height="48" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
       <br>Git
@@ -153,6 +148,13 @@
       </a>
       <br>Postman
     </td> -->
+  </tr>
+  <tr>
+   <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="CLanguage" width="48" height="48" />
+      </a>
+      <br>C Language
+    </td>
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
