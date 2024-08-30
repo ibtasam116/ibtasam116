@@ -42,10 +42,15 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="bootstrap"  width="48" height="48"  />
+      </a>
+      <br>Tailwind
+    </td>
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
       </a>
       <br>JavaScript
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  alt="Python"  width="48" height="48" />
       </a>
