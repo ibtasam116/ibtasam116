@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ibtasam116@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibtasam116@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h1 align="left"> <img src="./animation/tech.gif" width="35px"> Tech Stack and Tools</h1>
+<h1 align="left"> <img src="./animation/tech.gif" width="70px"> Tech Stack and Tools</h1>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -237,7 +237,7 @@
   </tr>
 </table>
 
-<h1 align="left"> <img src="./animation/analytics.gif" width="35px"> GitHub Analytics</h1>
+<h1 align="left"> <img src="./animation/analytics.gif" width="70px"> GitHub Analytics</h1>
 
 > Tools, languages, and other things that I like to work with.
 
