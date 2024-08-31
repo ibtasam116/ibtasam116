@@ -237,7 +237,7 @@
   </tr>
 </table>
 
-<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> GitHub Analytics</h1>
+<h1 align="left"> <img src="./animation/image_processing20220513-7034-codned.gif" width="35px"> GitHub Analytics</h1>
 
 > Tools, languages, and other things that I like to work with.
 
