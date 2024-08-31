@@ -1,4 +1,4 @@
-<h2 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> welcome to my Github!</h2>
 
 I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Computer Science from Government College University. My enthusiasm for technology and JavaScript motivates me to embrace challenges and stay ahead in exploring emerging technologies 💻. I’m passionate about contributing to open-source projects 🌍 and find joy in mentoring 🎓 and crafting meaningful solutions 💡. I’m committed to developing products that transform ideas into tangible, impactful solutions.
 
