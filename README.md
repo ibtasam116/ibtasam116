@@ -243,8 +243,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibtasam116&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/ibtasam116">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtasam116&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
-    <img height="140em" src="https://github-readme-activity-graph.vercel.app/graph?username=ibtasam116&bg_color=050F2C&color=2BD492&line=042F56&point=0195DD&area_color=0269A3&border_radius=100%&title_color=0269A3&border_radius=100%"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtasam116&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ibtasam116&bg_color=050F2C&color=2BD492&line=042F56&point=0195DD&area_color=0269A3&border_radius=100%&title_color=0269A3&border_radius=100%"/>
   </a> 
 </p>
 
