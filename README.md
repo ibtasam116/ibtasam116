@@ -4,12 +4,15 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 
 <div align="center">
 
-[![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
-[![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
-[![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/)
-[![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
-[![Gmail Badge](https://img.shields.io/badge/-aamnansari29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamnansari29@gmail.com)](mailto:aamnansari29@gmail.com)
-[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamna_ansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamna_ansari/)
+<!-- [![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-ibtasam116-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibtasam116/)](https://www.linkedin.com/in/ibtasam116/)
+
+<!-- [![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/) -->
+<!-- [![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/) -->
+
+[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fibtasam116&logo=leetcode&logoColor=blue)](https://leetcode.com/u/ibtasam116/)
+[![Gmail Badge](https://img.shields.io/badge/-ibtasam116@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibtasam116@gmail.com)](mailto:ibtasam116@gmail.com)
 
 </div>
 
@@ -265,3 +268,15 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
     <img height="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=ibtasam116&bg_color=050F2C&color=2BD492&line=042F56&point=0195DD&area_color=0269A3&border_radius=100%&title_color=0269A3&border_radius=100%"/>
   </a> 
 </p>
+
+---
+
+<div align="center">
+
+[![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
+[![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
+[![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/)
+
+</div>
+
+---
