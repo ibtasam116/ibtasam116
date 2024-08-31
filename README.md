@@ -12,25 +12,8 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 
 ---
 
-- 🔭 I’m currently working on **Full Stack Developer**
+<h1 align="left"> <img src="./animation/presentation.gif" width="70px"> About </h1>
 
-- 🌱 I’m currently learning **Next JS / React JS / Tailwind**
-
-- 👯 I’m looking to collaborate on **Development Techniques**
-
-- 📫 How to reach me **ibtasam116@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtasam116&label=Profile%20views&color=0e75b6&style=flat" alt="ibtasam116" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mibtasma6" target="blank"><img src="https://img.shields.io/twitter/follow/mibtasma6?logo=twitter&style=for-the-badge" alt="mibtasma6" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mibtasma6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mibtasma6" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ibtasam-69b4a2247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibtasamLinkedinProfile" height="30" width="40" /></a>
-<a href="https://fb.com/samwellwisher@yahoo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samwellwisher@yahoo.com" height="30" width="40" /></a>
-<a href="https://instagram.com/ibtasam116@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibtasam116@gmail.com" height="30" width="40" /></a>
-</p>
 
 <h1 align="left"> <img src="./animation/technology.gif" width="50px"> Tech Stack</h1>
 
