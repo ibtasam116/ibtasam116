@@ -14,6 +14,10 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 
 <h1 align="left"> <img src="./animation/about.gif" width="50px"> About </h1>
 
+- Solved 100+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/ibtasam116/)**.
+- Actively participating in international events and hackathons.
+- Typing speed 80 WPM.
+- Aspiring Full Stack developer(currently knows only frontend development).
 
 <h1 align="left"> <img src="./animation/technology.gif" width="50px"> Tech Stack</h1>
 
