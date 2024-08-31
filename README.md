@@ -21,9 +21,10 @@
 <a href="https://instagram.com/ibtasam116@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibtasam116@gmail.com" height="30" width="40" /></a>
 </p>
 
+<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Tech Stack and Tools</h1>
 
-<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px">Tech Stack and Tools</h1>
 > Tools, languages, and other things that I like to work with.
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -236,8 +237,10 @@
   </tr>
 </table>
 
-<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px">GitHub Analytics</h1>
+<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> GitHub Analytics</h1>
+
 > Tools, languages, and other things that I like to work with.
+
 <p align="center">
   <a href="https://github.com/ibtasam116">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibtasam116&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
