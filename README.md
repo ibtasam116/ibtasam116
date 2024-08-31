@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ibtasam116@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibtasam116@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h1 align="left"> <img src="./animation/tech.gif" width="50px"> Tech Stack</h1>
+<h1 align="left"> <img src="./animation/technology.gif" width="50px"> Tech Stack</h1>
 
 > Technologies, Tools and Libraries that I utilize for developing and optimizing projects.
 
