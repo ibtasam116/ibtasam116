@@ -12,7 +12,7 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 
 ---
 
-<h1 align="left"> <img src="./animation/presentation.gif" width="70px"> About </h1>
+<h1 align="left"> <img src="./animation/about.gif" width="50px"> About </h1>
 
 
 <h1 align="left"> <img src="./animation/technology.gif" width="50px"> Tech Stack</h1>
