@@ -30,7 +30,7 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" target="_blank">
       <a href="https://web.dev/learn/css"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
