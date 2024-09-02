@@ -36,22 +36,22 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"  width="48" height="48"  />
+      <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"  width="48" height="48"  />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48"  />
+      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"  width="48" height="48"  />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  width="48" height="48"  />
+      <a href="https://mui.com/material-ui/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  width="48" height="48"  />
       </a>
       <br>MaterialUI
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=sass"  alt="SASS"  width="48" height="48"  />
+      <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"  alt="SASS"  width="48" height="48"  />
       </a>
       <br>SASS
     </td>
