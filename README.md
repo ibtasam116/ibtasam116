@@ -26,12 +26,12 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48" />
+      <a href="https://html.com/"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48" />
+      <a href="https://web.dev/learn/css"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
     </td>
