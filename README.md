@@ -26,11 +26,11 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://html.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48" />
+      <a href="https://html.com/"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="48" height="48" />
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96" target="_blank">
+    <td align="center" width="96">
       <a href="https://web.dev/learn/css"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
@@ -46,7 +46,7 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="https://mui.com/material-ui/" target="_blank"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  width="48" height="48"  />
+      <a href="https://mui.com/material-ui/"><img src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI"  width="48" height="48"  />
       </a>
       <br>MaterialUI
     </td>
@@ -56,29 +56,29 @@ I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Compute
       <br>SASS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=js"  alt="JavaScript"  width="48" height="48" />
+      <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js"  alt="JavaScript"  width="48" height="48" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
+      <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="48" height="48" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=react"  alt="ReactJS"  width="48" height="48" />
+      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"  alt="ReactJS"  width="48" height="48" />
       </a>
       <br>ReactJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS"  width="48" height="48" />
+      <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs"  alt="NextJS"  width="48" height="48" />
       </a>
       <br>NextJS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+      <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
       </a>
       <br>Firebase
     </td>
