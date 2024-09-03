@@ -26,9 +26,9 @@
 - I’m currently working on Full Stack Development, Mobile APP Development.
 - Contributing to Open Source Projects is always been a goal to me.
 - Skilled in excelling with modern tech stacks and writing clean code.
-- Exploring more about Web dev and web3.
 - Solved 100+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/u/ibtasam116/)**.
 - Actively participating in international events and hackathons.
+- Exploring more about Web dev and web3.
 - Typing speed 80 WPM.
 - I love Sports, especially Badminton.
 
