@@ -1,6 +1,15 @@
-<h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> welcome to my Github!</h2>
 
-I'm **Muhammad IbTaSaM**, a passionate web developer. I hold an M.Sc. in Computer Science from Government College University. My enthusiasm for technology and JavaScript motivates me to embrace challenges and stay ahead in exploring emerging technologies 💻. I’m passionate about contributing to open-source projects 🌍 and find joy in mentoring 🎓 and crafting meaningful solutions 💡. I’m committed to developing products that transform ideas into tangible, impactful solutions.
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Muhammad IbTaSaM</h2>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduated;Full+Stack+Developer;Mobile+App+Developer;Aspiring+Learner&center=true&width=500&height=30"></a>
+</p>
+<p align="center">
+  <em>
+ I'm <b>Muhammad IbTaSaM</b>, a passionate web developer. I hold an M.Sc. in Computer Science from Government College University. My enthusiasm for technology motivates me to embrace challenges and stay ahead in exploring emerging technologies 💻. I’m passionate about contributing to open-source projects 🌍 and find joy in mentoring 🎓 and crafting meaningful solutions 💡.
+  <br><br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+</p>
+    
 
 <div align="center">
 
