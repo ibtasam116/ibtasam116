@@ -1,4 +1,4 @@
-
+.
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Muhammad IbTaSaM</h2>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduated;Full+Stack+Developer;Mobile+App+Developer;Aspiring+Learner&center=true&width=500&height=30"></a>
